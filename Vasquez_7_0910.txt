@@ -1,0 +1,13 @@
+yesterday we learned how make a jounral and repository on github
+git add Vasquez_7_journal everthing
+     Today we will set up a working git directory.
+
+Create a journal in the Journal repo you created.
+Give it the name Lastname_period_0910.txt
+Explain what we did yesterday (with github) and why.
+More specifically -
+Describe the git steps you will do everytime 
+git add Vasquez_7_jonuarls
+git commit-m""
+git push-u origin master
+
