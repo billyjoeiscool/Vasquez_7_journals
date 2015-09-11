@@ -1,0 +1,27 @@
+set forward=right
+set numbers= number of units ecpecpt 0
+
+
+start 0,0
+Draw 5
+forward right for 10
+backward 5
+downward 10
+left 5
+up 2.5
+
+start 7,0
+draw four
+forward right 5
+down 5
+left 5
+up 5
+
+start 14,0
+draw forward5
+down 2.5
+left 2.5
+up 2.5
+down5forward2.5
+
+start 15
