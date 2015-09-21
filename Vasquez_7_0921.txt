@@ -1,0 +1,13 @@
+Look at ParentPortal.
+
+Have you received credit for all journals?
+no
+Why is it important that you use the naming convention specified when naming files?
+so people are not confused when that read it.
+What is the command to copy in Linux? to copy all of a directory to the current directory?
+cp and
+$ cp filename /tmp
+$ ls /tmp/filename
+$ cd /tmp
+$ ls
+$ rm filename
