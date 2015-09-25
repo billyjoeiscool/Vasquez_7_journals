@@ -1,0 +1,19 @@
+Paid licencse
+A licencse that you pay for
+Shareware
+A software were you share software
+Trialware
+software that is timed software you only have limted time
+Ad-ware
+software that that aut amicly adds downloads or shows advertasing
+Crippleware
+software that is limted to make poeple want the full version
+Freemium
+a pricing strategy in which the software is free but the more enjoy stuff you
+ most pay
+FreeWare (vs Free-OpenSource)
+freeware is free of cost but free open source you canl see the source code
+Richard Stallman-the man that made the tool system used in lunix called GNU
+ and belives in open source software
+Lawrence Lessig-protecting the rights of consumers
+Eben Moglen-Chairman of Software Freedom Law Center involved in GPL
