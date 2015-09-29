@@ -1,0 +1,5 @@
+What are methods? What are they good for?
+useing loops and placement of ints finding and counting diffent nummbers
+How can you use methods to find primes?
+methhods can be use for pimes by I denif them then loop it to find all the
+ primes
