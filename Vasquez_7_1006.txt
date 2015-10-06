@@ -1,0 +1,8 @@
+What are methods?
+A methods are ways to accompplesh a task
+What are classes?
+The place where code goes
+What is an instance?
+a realizion  of a object
+What are class methods?
+ways to accompplesh tasks thought out classes
