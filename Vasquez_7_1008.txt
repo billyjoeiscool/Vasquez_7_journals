@@ -1,0 +1,10 @@
+what are your tentative thoughts / plans for your art project?
+To test it all ontill I get something cool
+What might be methods you will use?
+loops
+How might you incorporate a for loop?
+if else stuff
+How might you incorporate, if, else if, else?
+if 10 black than 4 red
+What math might you use?
+divisbles
