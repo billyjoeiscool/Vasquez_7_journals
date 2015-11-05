@@ -1,0 +1,9 @@
+Imagine you are explaining to a younger sibling or parent, Describe:
+What are strings?
+A bunch of multble character
+What are they good for?
+writing  things in a game for writing stuff while the progam is running or just having random character like 9as0efdj
+What are some string methods?
+A method that for character that you can type
+How do we identify string methods?
+they we be in a named String and ex silly.and random stuff
