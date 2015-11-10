@@ -1,0 +1,6 @@
+In your game, how can you track what challenges the player has solved?
+like when userguess = magicnumber playlevel2
+How can you track HP?
+use a anthor couters
+items?
+booleans true or false
