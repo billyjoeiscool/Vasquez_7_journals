@@ -1,0 +1,5 @@
+How will you use while loops in your game? Why?
+I will use a while loop for playing in game to keep it all to gether
+    How will you use methods in your game? Why?
+to seperat choice vatashions and diffent levels
+
