@@ -1,0 +1,6 @@
+No, really, How will you use methods in your game? Why?
+
+Be specific.
+I will use methods of game levels or diffent endings
+What values will you pass to them.
+void
