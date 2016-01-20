@@ -1,0 +1,6 @@
+What slick game did you create?
+a Dungen crawl
+What challenges did you solve
+how put make game picches in the code with they own varbles
+Before the Winter break, you were admonished to finish your maps and spritesheets - so that you would be ready to go with the game when we got back. Did you? Why or why not?
+I did not finish that at that time I thought I did but, when I messed with it again it buged out
