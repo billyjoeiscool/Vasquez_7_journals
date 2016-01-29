@@ -1,0 +1,6 @@
+What is a class constructor?
+a class constructor is some thing thats only for the class and is running
+What should be included in a class constructor for orbs? Why?
+locationx,locationy,size,isvisible
+What methods should the orb have? why?
+size,orb,eta to construct and have it do what you what it to do
