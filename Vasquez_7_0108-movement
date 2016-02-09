@@ -1,0 +1,5 @@
+How can / will you make the orb move in the direction you are facing?
+code in orb face this way or right left down
+Explain and provide specific code.
+} else if (input.isKeyDown(Input.KEY_LEFT)) {
+			orb = left;
