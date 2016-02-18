@@ -1,0 +1,39 @@
+Explain this code:
+public Animation Playeranime, up, down, left, right, sprite, wait;
+    public Player() throws SlickException {
+        SpriteSheet runningSS = new SpriteSheet(
+                "res/ogrespritesheet.png", 64, 64, 0);
+        up = new Animation();
+        up.setAutoUpdate(true);
+        up.addFrame(runningSS.getSprite(0, 8), 330);
+        up.addFrame(runningSS.getSprite(1, 8), 330);
+        up.addFrame(runningSS.getSprite(2, 8), 330);
+        up.addFrame(runningSS.getSprite(3, 8), 330);
+        up.addFrame(runningSS.getSprite(4, 8), 330);
+        up.addFrame(runningSS.getSprite(5, 8), 330);
+        up.addFrame(runningSS.getSprite(6, 8), 330);
+        up.addFrame(runningSS.getSprite(7, 8), 330);
+        up.addFrame(runningSS.getSprite(8, 8), 330);
+this code add the animation and movemont for any spite and the next tells you 
+where to find the pics for the sprite and the rest is where the pic are for and the oder thay should be put in
+Why would it be unrealistic / unproductive  to memorize Slick syntax - what are the skills we were trying to practice?
+Slick is code that will be repleced by better code then it will happen agin so on and sofroth
+the goal of this class is to get used to reading all code new old so you can sovle problems in code and learn new code more quikly 
+What is an array?
+is a container object that holds a fixed number of values of a single type.
+How do you make an array? Give an example.
+class ArrayCool {
+    public static void main(String[] args) {
+        // declares an array of integers
+        int[] anArray;
+What is an ArrayList?
+
+How do you make an arraylist?
+public ArrayList<Trap> protect = new ArrayList();
+In Netbeans, make an arraylist. Use autocompletion with the created arraylist (the '.' and pop-up):
+
+What are three useful arraylist methods that you identified?
+
+What is the difference between an array and an arraylist?
+
+How could we make a health counter for an avatar?
