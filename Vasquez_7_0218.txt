@@ -1,0 +1,48 @@
+13 Explain this code:
+public Animation Playeranime, up, down, left, right, sprite, wait;
+   public Player() throws SlickException {
+      SpriteSheet running = new SpriteSheet(
+                "res/ogrespritesheet.png", 64, 64, 0);
+        up = new Animation();
+        up.setAutoUpdate(true);
+        up.addFrame(runningSS.getSprite(0, 8), 330);
+        up.addFrame(runningSS.getSprite(1, 8), 330);
+        up.addFrame(runningSS.getSprite(2, 8), 330);
+        up.addFrame(runningSS.getSprite(3, 8), 330);
+        up.addFrame(runningSS.getSprite(4, 8), 330);
+        up.addFrame(runningSS.getSprite(5, 8), 330);
+        up.addFrame(runningSS.getSprite(6, 8), 330);
+        up.addFrame(runningSS.getSprite(7, 8), 330);
+        up.addFrame(runningSS.getSprite(8, 8), 330);
+Declared animations, then has a class constructor which initializes the up animation and add the frames
+14.Why would it be unrealistic / unproductive  to memorize Slick syntax - what are the skills we were trying to practice?
+Memorizing slick syntax is very specific. Rather, we should focus on skills that j=have maximum return on investment (Roi).
+Slick is but one library among thousands of java libraries consequently, we are better served by learning skills such as how to decode and implement java libraries.
+the important part of what we are doing is problem solving and pattern recognition, i.e., compu
+Slick is code that will be replaced by better code then it will happen again so on and so forth
+the goal of this class is to get used to reading all code new old so you can solve problems in code and learn new code more quickly
+15.What is an array?
+array is a ordered list. Containing one data type 
+is a container object that holds a fixed number of values of a single type.
+16. how do you make a array?
+String[] Michael ={“john”,”sally”,”stormy”];
+//this creates an array with 4 different values
+int[] MyFavoritNumbers = new int [42];
+//creates an integer array with 42 null vaules
+17.What is an ArrayList?
+An ArrayList can contain multiple data types.
+To make an ArryList with a specific type, we use <>
+ArrayList<stuff> thing = new ArrayList();
+things.add(moreStuff);
+18.How do you make an arraylist?
+public ArrayList<Trap> protect = new ArrayList();
+In Netbeans, make an arraylist. Use autocompletion with the created arraylist (the '.' and pop-up):
+
+19.What are three useful arraylist methods that you identified?
+
+20.What is the difference between an array and an arraylist?
+an array is static, i.e., it has a fixed size, whereas ArrayLists are dynamic, i.e., their size can change. 
+21.How could we make a health counter for an avatar?
+public int player heath =10;
+if(playerisHit)[
+heath -=1;
