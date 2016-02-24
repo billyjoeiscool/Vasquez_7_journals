@@ -1,0 +1,18 @@
+Define a class Rat
+public class Rat {
+}
+Provide the code to declare and instatiate Rats
+public ArrayList<Rat> RatPack = new ArrayList();
+Explain where the decaration and initialization are placed
+atfer all theimports
+Provode a two-dimensional array that specifies coordinates for five rats
+Rat = new rap(100, 100);
+Rat = new fap(125, 100);
+Rat = new snap(150, 100);
+Rat = new tap(175, 100);
+Rat = new pap(200, 100);
+RatPack.add(rap);
+RatPack.add(fap);
+RatPack.add(snap);
+RatPack.add(pap);
+RatPack.add(tap);
