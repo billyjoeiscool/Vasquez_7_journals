@@ -1,0 +1,34 @@
+ 1. How do we make a class? What code comes at the beginning?
+pubilc class stuff {
+}
+thats how use a static, void, pubilc or main or two of them together 
+2. Donut Bismarck = new Donut();
+is this a class constructor?
+munplate vaules 
+add helpful varbles like x and y
+
+3. How do we make a class with values and a class constructor?
+boolean isGlazed;
+boolean hasoj;
+floattemperature;
+public Donut (boolean a, boolean b, floatc){
+this,isGlazed=a;
+this.hasjelly=b;
+this.temperature = c;
+
+
+4. Explain in your own words - what is a getter? what does it do?
+a getter get,i.e. ,agetter returns a variable value
+5. What is a setter? what does it do? Give an example.
+  a setter sets the varbes
+  
+public void setWidth(int width) {
+        this.width = width;
+    }
+
+6. What is in An array of Breakfast? How would you create one?
+
+int[] coolnum// this ia an ints
+String[] Breakfast;// sting array
+bolean [] [] blocked; //this is a 2D array of booleans
+Breakfast [] 
