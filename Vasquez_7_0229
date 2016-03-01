@@ -18,10 +18,13 @@ this.temperature = c;
 
 
 4. Explain in your own words - what is a getter? what does it do?
+ChocolateFille.getIs Glazed(42);
 a getter get,i.e. ,agetter returns a variable value
 5. What is a setter? what does it do? Give an example.
   a setter sets the varbes
-  
+  how to use setter and getters:
+  Dount ChocolateFilled = new Dount(true,false,100);
+  Chocolatefilled.setTemp(72);
 public void setWidth(int width) {
         this.width = width;
     }
@@ -31,4 +34,9 @@ public void setWidth(int width) {
 int[] coolnum// this ia an ints
 String[] Breakfast;// sting array
 bolean [] [] blocked; //this is a 2D array of booleans
-Breakfast [] 
+Breakfast [] JarzombekFamilyBreakfast;
+Breakfast joseph = new Breakfast(4,8,2,true);
+Breakfast sarah = new Breakfast(2,0,0,true);
+Breakfast Papa = new Breakfast(4,8,9,false);
+Breakfast Mama = new Breakfast(3,0,0,false);
+JarzombelFamilyBreakfast = {joseph, sarah, Papa, Mama};
