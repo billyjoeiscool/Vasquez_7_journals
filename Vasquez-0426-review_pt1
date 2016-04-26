@@ -1,0 +1,39 @@
+
+    Write a Java method to return the cubed value of some number.
+    cubed class{
+    static int nummber;
+    static int counter = nummber * nummber * nummber;
+    Scanner userinputnumbers = new Scanner(System.in);
+    number = userinputnumbers;
+    return counter;
+    
+    Write an Arduino function to return the cubed value of some number.
+    int potPin = A0;
+
+int potValue = 0;
+
+void setup() {
+  
+}
+void loop(){
+   potValue = analogRead(potPin);
+   analogWrite(potpin, potValue);
+   Cube();
+   Serial.print("CUBE = " );     
+ Serial.print(cube);
+   }
+
+void Cube();
+{
+ int cube = potValue * potValue *potValue;
+}
+    Create the class, an object, and class constructor for class student
+    class Classstudent(){
+    public Student(String stu){
+    Student stu = new student();
+    }
+    
+    
+    
+    Describe - if we were to continue with Arduino - what would you create?
+a code system like if you press red amout of time its A or R and for all buttions and it will have a display to show what messege it says.
