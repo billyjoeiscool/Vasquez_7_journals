@@ -1,0 +1,34 @@
+
+    In the Array Game assignment you have had to review and revisit concepts you may have forgotten about. These will all be tested on the final exam!
+    What is an array? an array is a  series of intger,object,Strings all of which are the same type unless changed or altred.
+    How does one make a simple array of Strings?
+    public class SampleArray {
+String bee ("h""Q""j");
+   
+    What is the syntax for a 2-D array?
+     String[][] map = new String[9][9];
+    What is the syntax for a 3-D array?
+String[][] map = new String[9][9][9];
+    How does one change the value for the third value in a one dimensional array? [Give specific code]
+    
+    What is the syntax for a while loop?
+    code that will not end and will all wated be used
+    Why use while loops in your game?
+    because that loop will be needed in 100% of the game like moving and walking animashion.
+    Your game should be in a method outside of main --- How will you call your game in main?
+    in main you add game states with a certin number to use to called when need a certin states in this casethe game start with the menu class which when a buttion "f1" is pressed it will swich to game state game like"stealer"
+    public Main(String gamename) {
+        super(gamename);
+        this.addState(new Menu(xSize, ySize));
+        this.addState(new Stealer(xSize, ySize));
+        this.addState(new lose(xSize, ySize));
+        this.addState(new level2(xSize, ySize));
+        this.addState(new win(xSize, ySize));
+    Why was it recommended that you use .toLowerCase() with your Scanner input?
+    the scanner is very pick about names like if the answer is q then you put Q it will be wrong so its easyer.
+    You should use different methods when moving the protagonist and to check for intersections. How? Why?
+    why? you can take the player X and Y and the Maps X and Y and make sure if your on a object to win or lose the game
+    How?you put if's like if player x and y is on bah then die
+    What values will you pass across methods? how? why?
+by making a value stadic
+if some thing pertaning to all methiods like time ends is heath go down too 
