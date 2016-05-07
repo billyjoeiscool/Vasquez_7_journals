@@ -1,0 +1,49 @@
+
+Given mymap[67][43] Which is the x coordinate? Which is the y coordinate? Why? How does this happen?
+the x coordinate is [43] and the other coordinate y is [67] why because when put  (int i = 0; i <= map[0].length - 1; i++) that makes i x and you put (int j = 0; j <= map[1].length - 1; j++) to make j y 
+Consider:
+        for (int i = 0; i <= map[0].length - 1; i++) {
+            for (int j = 0; j <= map[1].length - 1; j++) {
+                if (j < map[1].length - 1) {
+                  if (i=0){ System.out.print("8888"); #a
+                    } else if (map[i][j] != 'x') {
+                        System.out.print("."); #e
+                    } else {
+                        System.out.print(map[i][j]); #b
+                    }
+                } else {
+                    if (map[i][j] != 'x') {
+                        System.out.println("."); #c
+                    } else {
+                        System.out.println(map[i][j]); #d
+                    }
+                }
+            }
+        }
+    }
+        
+        
+      
+Write the code from line #a and explain what it does.
+this code prints "8888" every time x coordinate is 0
+Write the code from line #b and explain what it does.
+prints out the grid of dots
+Write the code from line #c and explain what it does. Explain how its different than #e
+line c prints dots and line print over everything thats not a x 
+Write the code from line #d and explain what it does.
+prints a the grid of dots with all the changes we put in
+Explain how to use a boolean with a while loop. Provide a very specific use case and code example.
+in a game the game is played while play is true and you can change it to false when you lose or win
+while (play==true)
+lose class {
+if ((usery==deathy)&&(userx==userx));
+(play==false;)
+}
+Explain the use of static.
+static is useful when you need to call on varbles class easly
+Provide an example of how you could use an object with your game. Give a code example
+I could put has key when go to this coordies go to door open has key win
+door boolean{
+for while (dooropen==false);
+if (play==haskey)
+return (dooropen==true);
