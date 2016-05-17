@@ -1,0 +1,15 @@
+
+    Explain casting. Up-casting, Down-casting.
+    up-casting:when you move a data type down
+    down casting:is the oppise of up casting
+    Give a specific code example for up-casting
+    heath--;
+    Give a specific code example for down-casting
+    heath++;
+    Give a specific code example for converting a char to a String
+    ""+username
+    What is the range of values for byte? Why?
+    -128-127
+    because it counts zero as a number with vaule 
+    
+    
