@@ -7,7 +7,7 @@
     Give a specific code example for down-casting
     heath++;
     Give a specific code example for converting a char to a String
-    ""+username
+    board[1] = "=".toCharArray();
     What is the range of values for byte? Why?
     -128-127
     because it counts zero as a number with vaule 
