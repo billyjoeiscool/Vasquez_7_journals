@@ -1,0 +1,53 @@
+
+    Given the class Ogre:
+    1. Provide an example class with class constructor
+    2. Give an example of instantiation of an Ogre object
+    3. Provide a setter for positioning
+    4. Provide an example of using an ogre's move method
+    5. Provide an example array of 3 ogres.
+public class ogre {
+  int[] Orge1 = new int[ ];
+  int[] Orge2= new int[ ];
+  int[ ] Orge3 = new int[ ];
+  int[ ] Orge4 = new int[ ];
+     int heath = 1;
+
+    int x,y;
+    char icon = '@';
+    Hero(int a,int b){
+        this.x = a;
+        this.y=b;
+    
+}
+    void movenorth(){
+        this.y--;
+    }
+    
+    void movesouth(){
+        this.y++;
+    }
+    void moveeast(){
+        this.x--;
+    }
+     void movewest(){
+        this.x++;
+    }
+     void movenorthe(){
+        this.y--;
+        this.x--;
+    }
+    
+    void movesouthe(){
+        this.y++;
+        this.x--;
+    }
+    void movenorthw(){
+        this.x++;
+        this.y--;
+    }
+     void movesouthw(){
+        this.x++;
+        this.y++;
+    }
+     
+}
